@@ -1,0 +1,7 @@
+.talk-button {
+  display: block;
+  margin: 50px auto;
+  width: 100%;
+  max-width: 200px;
+  height: 50px;
+}
